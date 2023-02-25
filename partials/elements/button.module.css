@@ -1,0 +1,14 @@
+.btn {
+    border: none;
+    background-color: crimson;
+    color: aqua;
+    height: 5rem;
+    cursor: pointer;
+    width: 15rem;
+    font-size: 2rem;
+}
+
+.btn:hover {
+    color: crimson;
+    background-color: aqua;
+}
